@@ -11,10 +11,10 @@
     },
    "rap": {
       "players": [
-        { "roomName": "Dining Room", "volume": 30},
-        { "roomName": "Living Room", "volume": 30},
-        { "roomName": "Master Bedroom", "volume": 30},
-        { "roomName": "Kitchen5", "volume": 40},
+        { "roomName": "Deck", "volume": 30},
+        { "roomName": "Pool", "volume": 30},
+        { "roomName": "Master Suite", "volume": 30},
+        { "roomName": "Kitchen", "volume": 40},
         { "roomName": "KitchenWall", "volume": 50}
       ],
       "state": "PLAYING",
@@ -25,10 +25,10 @@
     },
     "pop rap": {
       "players": [
-        { "roomName": "Dining Room", "volume": 30},
-        { "roomName": "Living Room", "volume": 30},
-        { "roomName": "Master Bedroom", "volume": 30},
-        {"roomName": "Kitchen5", "volume": 40},
+        { "roomName": "Deck", "volume": 30},
+        { "roomName": "Pool", "volume": 30},
+        { "roomName": "Master Suite", "volume": 30},
+        {"roomName": "Kitchen", "volume": 40},
         {"roomName": "KitchenWall", "volume": 50}
       ],
       "state": "PLAYING",
@@ -39,10 +39,10 @@
     },
     "rock": {
       "players": [
-        { "roomName": "Dining Room", "volume": 30},
-        { "roomName": "Living Room", "volume": 30},
-        {"roomName": "Kitchen5", "volume": 40},
-        { "roomName": "Master Bedroom", "volume": 30},
+        { "roomName": "Deck", "volume": 30},
+        { "roomName": "Pool", "volume": 30},
+        {"roomName": "Kitchen", "volume": 40},
+        { "roomName": "Master Suite", "volume": 30},
         {"roomName": "KitchenWall", "volume": 50}
       ],
       "state": "PLAYING",
